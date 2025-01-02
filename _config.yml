@@ -2,5 +2,5 @@ title: "My Academic Website"
 author: "Your Name"
 description: "A personal academic website showcasing my research, CV, and more."
 theme: minima
-baseurl: "" # Leave empty for GitHub Pages
-url: "https://<your-username>.github.io" # Replace with your GitHub Pages URL
+# baseurl: "" # Leave empty for GitHub Pages
+# url: "https://<your-username>.github.io" # Replace with your GitHub Pages URL
