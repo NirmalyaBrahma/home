@@ -1,6 +1,6 @@
 title: "Nirmalya Brahma"
-# author: "Your Name"
-# description: "A personal academic website showcasing my research, CV, and more."
+author: "Your Name"
+description: "A personal academic website showcasing my research, CV, and more."
 theme: minima
 baseurl: "" # Leave empty for GitHub Pages
 url: "https://nirmalyabrahma.github.io" # Replace with your GitHub Pages URL
