@@ -15,7 +15,7 @@ author:
       url: "https://twitter.com/yourusername"
 
 # Theme settings
-theme: "minimal-mistakes-jekyll"   # Use Minimal Mistakes theme
+theme: "minimal"   # Use Minimal Mistakes theme
 permalink: pretty                  # Clean URLs
 # timezone: "America/Toronto"        # Adjust for your location
 
