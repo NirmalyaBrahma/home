@@ -16,7 +16,7 @@ author:
 
 # Theme settings
 theme: jekyll-theme-minimal  # Use Minimal Mistakes theme
-permalink: pretty                  # Clean URLs
+# permalink: pretty                  # Clean URLs
 # timezone: "America/Toronto"        # Adjust for your location
 
 # Navigation menu
